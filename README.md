@@ -1,7 +1,7 @@
 # Fundamentos_de_ETL_com_Python
-<h1> Fundamentos de ETL com Python
+ Fundamentos de ETL com Python
 
-<h1>Trabalhando com Dados Acidentes áereos do Cnipa.
+<h1>Trabalhando com Dados Acidentes áereos do Cnipa.</h1>
 
 Fonte:  [cenipa](https://www2.fab.mil.br/cenipa/)
 
@@ -11,7 +11,7 @@ Dados Abertos: [dados](https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-
 CENIPA - Ocorrências Aeronáuticas na Aviação Civil Brasileira
 Dados de ocorrências aeronáuticas da aviação civil brasileira nos últimos 10 anos.
 
-<h2>Opendata AIG Brazil
+<h2>Opendata AIG Brazil</h2>
 
 A base de dados de ocorrências aeronáuticas é gerenciada pelo Centro de Investigação e Prevenção de Acidentes Aeronáuticos (CENIPA). Constam nesta base de dados as ocorrências aeronáuticas notificadas ao CENIPA nos últimos 10 anos e que ocorreram em solo brasileiro.
 
@@ -21,16 +21,17 @@ Essa base de dados é composta por informações preliminares provenientes do fo
 
 Dados proveniente dos Programas de Gerenciamento de Prevenção administrados pelo CENIPA (Emissão de Raio Laser e Risco Baloeiro) não constam nesta base. Esses programas possuem formulários próprios para coleta de dados com foco exclusivo para gerenciamento do risco, enquanto os dados coletados pelo formulário CENIPA-05 têm foco principal na investigação de acidentes (AIG).
 
-<h2>Tabelas (arquivos)
+<h2>Tabelas (arquivos)</h2>
 
-OCORRÊNCIA.csv - Informações sobre as ocorrências.
-OCORRÊNCIA_TIPO.csv - Informações sobre o tipo de ocorrência.
-AERONAVE.csv - Informações sobre as aeronaves envolvidas nas ocorrências.
-FATOR_CONTRIBUINTE.csv - Informações sobre os fatores contribuinte das ocorrências que tiveram investigações finalizadas.
-RECOMENDAÇÃO.csv - Informações sobre as recomendações de segurança geradas nas ocorrências.
+**OCORRÊNCIA.csv** - Informações sobre as ocorrências.
+**OCORRÊNCIA_TIPO.csv** - Informações sobre o tipo de ocorrência.
+**AERONAVE.csv** - Informações sobre as aeronaves envolvidas nas ocorrências.
+**FATOR_CONTRIBUINTE.csv** - Informações sobre os fatores contribuinte das ocorrências que tiveram investigações finalizadas.
+**RECOMENDAÇÃO.csv** - Informações sobre as recomendações de segurança geradas nas ocorrências.
+
 Fonte: Sistema DÉDALO.
 
 
-<h2>Modelo de Dados
+<h2>Modelo de Dados</h2>
 
 <img src="modelo_dados.png">
