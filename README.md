@@ -23,11 +23,11 @@ Dados proveniente dos Programas de Gerenciamento de Prevenção administrados pe
 
 <h2>Tabelas (arquivos)</h2>
 
-**OCORRÊNCIA.csv** - Informações sobre as ocorrências.
-**OCORRÊNCIA_TIPO.csv** - Informações sobre o tipo de ocorrência.
-**AERONAVE.csv** - Informações sobre as aeronaves envolvidas nas ocorrências.
-**FATOR_CONTRIBUINTE.csv** - Informações sobre os fatores contribuinte das ocorrências que tiveram investigações finalizadas.
-**RECOMENDAÇÃO.csv** - Informações sobre as recomendações de segurança geradas nas ocorrências.
+- **OCORRÊNCIA.csv** - Informações sobre as ocorrências.
+- **OCORRÊNCIA_TIPO.csv** - Informações sobre o tipo de ocorrência.
+- **AERONAVE.csv** - Informações sobre as aeronaves envolvidas nas ocorrências.
+- **FATOR_CONTRIBUINTE.csv** - Informações sobre os fatores contribuinte das ocorrências que tiveram investigações finalizadas.
+- **RECOMENDAÇÃO.csv** - Informações sobre as recomendações de segurança geradas nas ocorrências.
 
 Fonte: Sistema DÉDALO.
 
