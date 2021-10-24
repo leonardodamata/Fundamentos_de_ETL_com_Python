@@ -35,3 +35,12 @@ Fonte: Sistema DÉDALO.
 <h2>Modelo de Dados</h2>
 
 <img src="modelo_dados.png">
+
+1. [projeto](https://github.com/leonardodamata/Fundamentos_de_ETL_com_Python/blob/main/projeto.ipynb) - Fase de Extração e Validação
+
+1. [Limpeza](https://github.com/leonardodamata/Fundamentos_de_ETL_com_Python/blob/main/limpeza.ipynb) - Fase de Limpeza
+
+1. [Transformacação](https://github.com/leonardodamata/Fundamentos_de_ETL_com_Python/blob/main/transformacao.ipynb) - Fase de Transformacao
+
+
+<h2>Curso Finalizado</h2>
